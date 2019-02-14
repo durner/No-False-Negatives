@@ -17,6 +17,8 @@
 // You should have received a copy of the GNU General Public License
 // along with No False Negatives Database.  If not, see <http://www.gnu.org/licenses/>.
 //
+// SPDX-License-Identifier: GPL-3.0-or-later
+//
 
 #include "common/global_logger.hpp"
 #include "ds/atomic_singly_linked_list.hpp"
