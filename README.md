@@ -5,10 +5,11 @@ This is a single node OLTP database benchmarking system.
 It is a prototype database that can scale to many cores.
 The corresponding paper to that database system is the following:
 
-    No False Negatives: Accepting All Useful Schedules in a Fast Serializable Many-Core System
-    Dominik Durner, Thomas Neumann
-    35th IEEE International Conference on Data Engineering (ICDE 2019)
-    https://db.in.tum.de/~durner/papers/no-false-negatives-icde19.pdf
+[No False Negatives: Accepting All Useful Schedules in a Fast Serializable Many-Core System](http://db.in.tum.de/~durner/papers/NoFalseNegativesICDE19.pdf)  
+Dominik Durner, Thomas Neumann  
+35th IEEE International Conference on Data Engineering (ICDE 2019)  
+http://db.in.tum.de/~durner/papers/NoFalseNegativesICDE19.pdf  
+[Paper in this Repository](https://github.com/durner/No-False-Negatives/raw/master/no-false-negatives-icde19.pdf)
 
 Build
 ------------
